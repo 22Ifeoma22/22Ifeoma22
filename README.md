@@ -74,4 +74,4 @@ Automation of legal-tech processes with:
 
 **Let’s Connect**  
 -  [LinkedIn](https://www.linkedin.com/in/sue-eze-36530676/)   
--  sueze@outlook.com 
+  
