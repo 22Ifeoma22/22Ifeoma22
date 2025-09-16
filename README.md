@@ -1,4 +1,4 @@
-﻿#  Hi, I’m Brow (Sue Eze)
+﻿#  Hi, I’m (Sue Eze)
 
 MSc Computer Science (Artificial Intelligence) – University of Wolverhampton  
 Specialising in **AI Governance, Risk & Compliance**  
