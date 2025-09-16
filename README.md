@@ -50,7 +50,7 @@ Automation of legal-tech processes with:
 
 ---
 
-## 📊 Skills & Tooling
+##  Skills & Tooling
 - **Languages & Frameworks:** Python, R, SQL, Streamlit, Plotly, Pandas  
 - **Responsible AI & Compliance:** ISO 42001, NIST AI RMF, GDPR Article 22, ISO 27001/27701  
 - **Cloud & DevOps:** AWS (S3, Glue, QuickSight), Docker, Kubernetes, GitHub Actions  
@@ -58,7 +58,7 @@ Automation of legal-tech processes with:
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 ![Brow's GitHub stats](https://github-readme-stats.vercel.app/api?username=22Ifeoma22&show_icons=true&theme=tokyonight)  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=22Ifeoma22&layout=compact&theme=tokyonight)  
