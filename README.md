@@ -1,6 +1,6 @@
 ﻿#  Hi, I’m (Sue Eze)
 
-MSc Computer Science (Artificial Intelligence) – University of Wolverhampton  
+MSc Computer Science (Artificial Intelligence) – University of Wolverhampton (ongoing) 
 Specialising in **AI Governance, Risk & Compliance**  
 Experience in **ISO 27001 / 27701, GDPR, and Responsible AI frameworks (ISO/IEC 42001, NIST AI RMF)**  
 Building tools that combine **compliance pipelines, dashboards, and Responsible AI evidence packs**  
