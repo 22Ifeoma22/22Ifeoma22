@@ -12,6 +12,16 @@ I build **AI governance frameworks** that ensure:
 ---
 
 ###  Signature Framework
+## Practical AI Governance in Action
+This profile includes hands-on examples demonstrating how I operationalise:
+- Explainability (SHAP, LIME)
+- Fairness testing (Aequitas, Fairlearn)
+- Counterfactual accountability
+- ISO 42001 lifecycle governance controls
+- Continuous monitoring and drift detection
+
+→ Turning responsible AI principles into **auditable evidence**.
+
 **The Big Map ROAR Framework**  
 A systemic harm assessment model used to analyse case studies of AI failures across:
 
