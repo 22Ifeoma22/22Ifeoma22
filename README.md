@@ -1,4 +1,4 @@
-# 🦁 Sue Eze — Responsible AI Governance & Assurance
+# 🦁 Sue Eze - Responsible AI Governance & Assurance
 
 MSc Computer Science (Artificial Intelligence) University of Wolverhampton (ongoing)  
 Specialising in **AI Governance, Accountability, Risk & Compliance**.
