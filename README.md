@@ -22,16 +22,6 @@ This profile includes hands-on examples demonstrating how I operationalise:
 
 → Turning responsible AI principles into **auditable evidence**.
 
-**The Big Map ROAR Framework**  
-A systemic harm assessment model used to analyse case studies of AI failures across:
-
-1. **Data Governance** — If data is unrepresentative → the system learns harm  
-2. **Model Governance** — If logic is not explainable → harm becomes unchallengeable  
-3. **Deployment Governance** — If oversight is missing → harm becomes automatic  
-4. **Monitoring & Incident Response** — If behaviour is not observed → harm persists silently  
-5. **Accountability & Redress (RACI)** — If no one owns the outcome → people have **no route to correction**
-
-**Legal Anchor:** *Under GDPR Article 22, individuals cannot be subjected to solely automated decisions without meaningful human oversight and a clear path to contest the outcome.*
 
 ---
 
